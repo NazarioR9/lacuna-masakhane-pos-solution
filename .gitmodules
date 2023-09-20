@@ -1,0 +1,6 @@
+[submodule "lacuna_pos_ner"]
+	path = lacuna_pos_ner
+	url = https://github.com/masakhane-io/lacuna_pos_ner.git
+[submodule "masakhane-pos"]
+	path = masakhane-pos
+	url = https://github.com/masakhane-io/masakhane-pos.git
