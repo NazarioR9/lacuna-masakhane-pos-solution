@@ -26,7 +26,7 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |--- data/  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |--- language_corpus  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |--- translation_corpus   
-| \  
+| \
 |---- Test.csv   
 |---- SampleSubmission.csv   
 |---- ./install.sh   
